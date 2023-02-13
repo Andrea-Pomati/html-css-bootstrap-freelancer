@@ -5,7 +5,7 @@
 
 
 nav{
-    background-color: #2C3350;
+   background-color: #2C3350;
    height: 60px;
 }
 
@@ -13,5 +13,29 @@ nav{
     height: 100%;
 }
 
+
 /* fine nav */
 
+/* inizio start-bootstrap */
+
+.__background-green{
+    background-color: #1ABC9C;
+
+
+}
+
+.__img-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+   
+
+
+}
+
+.__linea{
+    height: 7px;
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+}
