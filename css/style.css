@@ -54,17 +54,25 @@ nav{
 
 .__riga-nera{
     border: 3px solid #323232;
-    width: 220px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
     opacity: 1;
+    border-radius: 10px;
+
 
 
 }
 
 .__container-cards{
-   height: 250px;
+    height: 250px;
     background-color: rgb(51, 197, 64);
 
 
 }
+
+/* fine portfolio */
+
+
+/* inizio about */
+
