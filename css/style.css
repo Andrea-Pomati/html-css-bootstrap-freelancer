@@ -39,3 +39,25 @@ nav{
     background-color: white;
     border-radius: 10px;
 }
+
+/* fine bootstrap */
+
+
+/* inizio portfolio */
+
+.__portfolio{
+    color: #323232;
+
+
+
+}
+
+.__riga-nera{
+    border: 3px solid #323232;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1;
+
+
+}
