@@ -1,21 +1,12 @@
 /* debug */
 
-.debug{
+nav{
     background-color: #2C3350;
-    color: white;
+   height: 60px;
 }
 
-
-.__container-nav{
-    height: 60px;
-
-
-
-}
-
-.__row-nav{
+.height-100{
     height: 100%;
-
 }
 
 /* fine nav */
