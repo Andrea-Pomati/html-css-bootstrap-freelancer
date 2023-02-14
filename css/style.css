@@ -72,9 +72,19 @@ nav{
 
 /* inizio about */
 
+.__linea-white{
+    height: 4px;
+    width: 100px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+
 /* fine about */
 
 /* inizio contact me */
+
+
 
 /* fine contact me */
 
