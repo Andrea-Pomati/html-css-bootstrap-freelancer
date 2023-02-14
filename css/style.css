@@ -125,7 +125,12 @@ nav{
 
 }
 
-
+.fa-brands{
+    border: 1px solid;
+    border-radius: 50%;
+    font-size: 40px;
+    padding: 8px;
+}
 
 
 
