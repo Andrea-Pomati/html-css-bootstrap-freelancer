@@ -111,9 +111,19 @@ nav{
 
 }
 
+.footer-container{
+    
+    max-width: 275px;
+    text-align: center;
+
+}
+
+.__logos-social{
+    font-size: 30px;
 
 
 
+}
 
 
 
