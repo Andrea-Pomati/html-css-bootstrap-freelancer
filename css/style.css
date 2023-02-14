@@ -34,10 +34,15 @@ nav{
 }
 
 .__linea{
-    height: 7px;
-    width: 500px;
+    height: 4px;
+    width: 200px;
     background-color: white;
     border-radius: 10px;
+}
+
+.fa-star{
+    font-size: 25px;
+
 }
 
 /* fine bootstrap */
