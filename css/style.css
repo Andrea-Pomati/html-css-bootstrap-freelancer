@@ -41,7 +41,7 @@ nav{
 }
 
 .fa-star{
-    font-size: 25px;
+    font-size: 30px;
 
 }
 
@@ -57,17 +57,13 @@ nav{
 
 }
 
-.__riga-nera{
-    border: 3px solid #323232;
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    opacity: 1;
+.__linea-black{
+    height: 4px;
+    width: 100px;
+    background-color: #323232;
     border-radius: 10px;
-
-
-
 }
+
 
 .__container-cards{
     height: 250px;
