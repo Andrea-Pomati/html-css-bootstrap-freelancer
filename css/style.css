@@ -57,6 +57,10 @@ nav{
 
 }
 
+.__img-portfolio{
+    border-radius: 15%;
+}
+
 .__linea-black{
     height: 4px;
     width: 100px;
